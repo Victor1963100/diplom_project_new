@@ -32,7 +32,7 @@
 4. Запустить тесты сочетанием клавиш Shift+Ctrl+F10 (Windows) или после нажатия правой кнопки мыши нажать кнопку Run 'All Tests'.
 
 ## Отчетная документация
-- [План по ручному и автоматизированному тестированию](https://github.com/Victor1963100/diplom_prpject_new/blob/main/Plan.md)
+- [План по ручному и автоматизированному тестированию](https://github.com/Victor1963100/diplom_project_new/blob/main/Plan.md)
 - [Чек-лист](https://github.com/Victor1963100/diplom_prpject_new)
 - [Тест-кейсы](https://github.com/Victor1963100/diplom_prpject_new)
 - [Отчет по итогам тестирования](https://github.com/Victor1963100/diplom_prpject_new/blob/main/Result.md)
